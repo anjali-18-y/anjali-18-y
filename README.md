@@ -42,7 +42,6 @@ Whether it's designing efficient algorithms, analyzing complex datasets, or rapi
     *   **AIR 2039** in the Naukri Campus Young Turks Challenge.
     *   **Global Rank 3,798** on Unstop.
 *   **Open Source**: Incoming participant in the **GirlScript Summer of Code 2026** cohort.
-*   **Leadership**: Serving as the **Tech Head of NexTech** (our college technical society). Successfully led cross-functional teams to execute large-scale technical fests and hackathons **.
 
 
 ---
