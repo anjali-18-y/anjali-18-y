@@ -37,7 +37,7 @@ Whether it's designing efficient algorithms, analyzing complex datasets, or rapi
 
 ### 🏆 Achievements & Key Involvements
 
-* **SheFi Scholar ** : Secured a fully funded **$999** scholarship, gaining hands-on experience with  Web3 and DeFi.
+* **SheFi Scholar** : Secured a fully funded **$999** scholarship, gaining hands-on experience with  Web3 and DeFi.
 *   **Competitive Programming**: 
     *   **AIR 2039** in the Naukri Campus Young Turks Challenge.
     *   **Global Rank 3,798** on Unstop.
