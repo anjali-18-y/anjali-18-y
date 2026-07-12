@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anjali Yadav!
+#  Hi, I'm Anjali Yadav!
 
 I am a **CSE** Pre-Final year student with a multifaceted passion for building robust software, extracting data-driven insights, and orchestrating impactful tech products. 
 
